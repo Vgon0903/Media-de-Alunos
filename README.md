@@ -3,23 +3,7 @@
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO
 
-Início
-
-Enquanto Existem voto? Faça
-
-Apresentar opções de voto 
-	
-Ler voto 
-
-Exibir opção selecionada
-	
-Exibir se não selecionou nenhuma das opções apresentadas
-	
-Exibir quantidades de votos de cada opção apresentada
-	
- Fim Enquanto    
-
-Fim
-
+![image](https://user-images.githubusercontent.com/103973688/173483724-ac136dad-e665-4ea2-85f8-c06d58ecf22e.png)
 
 --------------------------------------------------------
+![image](https://user-images.githubusercontent.com/103973688/173483681-9bcf2237-f048-408e-94ca-eac65b93f47a.png)
