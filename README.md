@@ -5,19 +5,23 @@
 
 Início
 
-Enquanto Existem voto? Faça
+C = 1
 
-Apresentar opções de voto 
-	
-Ler voto 
+Soma = 0
 
-Exibir opção selecionada
-	
-Exibir se não selecionou nenhuma das opções apresentadas
-	
-Exibir quantidades de votos de cada opção apresentada
-	
- Fim Enquanto    
+Enquanto C <=6 Faça
+
+Ler (Q[C])
+
+Soma = Soma + Q[C]
+
+C = C +1
+
+Fim enquanto
+
+Media = Soma/6
+
+Exibir (' A média é:', Media) 
 
 Fim
 
